@@ -9,3 +9,6 @@ The main tools are:
 - Google Earth Engine
 - GeoJSON
 - QGIS, to select the area of study
+
+**TO-DO**
+- Apply K-means
